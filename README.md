@@ -1,3 +1,7 @@
+# 🐍 Exercícios de Python 3 — Curso em Vídeo
+
+Resolução dos desafios práticos de **Python 3** desenvolvidos durante as aulas do professor **Gustavo Guanabara** ([Curso em Vídeo](https://cursoemvideo.com)).
+
 ## 📂 Estrutura do Repositório
 
 * 📁 **Mundo 1 (Fundamentos):** Exercícios `001` ao `035` — Primeiros passos, tipos primitivos, operadores aritméticos, módulos, manipulação de texto e condições simples (`if`/`else`).
