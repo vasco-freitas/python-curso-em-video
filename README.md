@@ -1,4 +1,4 @@
-# 🐍 Exercícios de Python 3 — Curso em Vídeo
+# 🐍 Exercícios de Python — Curso em Vídeo
 
 Resolução dos desafios práticos de **Python 3** desenvolvidos durante as aulas do professor **Gustavo Guanabara** ([Curso em Vídeo](https://cursoemvideo.com)).
 
